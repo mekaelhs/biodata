@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mekael
 - 👀 I’m interested in Web or App Development
-- 🌱 I’m currently learning Full Stack Development at HACKTIV8
+- 🌱 I’m currently learning Full Stack Developer
 - 📫 How to reach me? On Instagram @mekaelhs or Twitter @cangkir_kafe
 
 <!---
