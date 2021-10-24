@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mekael
 - 👀 I’m interested in Web or App Development
-- 🌱 I’m currently learning Full Stack Developer
+- 🌱 I’m currently learning Front-End Reactjs at JabarCodingCamp 2021 Batch 1
 - 📫 How to reach me? On Instagram @mekaelhs or Twitter @cangkir_kafe
 
 <!---
